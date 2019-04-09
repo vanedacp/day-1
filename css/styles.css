@@ -1,0 +1,35 @@
+/* 10 points */
+.green-text {
+    color:green;
+}
+
+/* 1 point */
+h1 {
+    color: red;
+}
+
+/* 100 points */
+#width-300 {
+    width: 300px;
+}
+
+.border-blue {
+    border: 1px solid blue;
+}
+
+h1 {
+    color: teal;
+}
+
+.profile-picture {
+    width: 300 px;
+}
+
+.list-item {
+    font-size: 24px;
+    padding: 10px;
+    border: 1px dotted black;
+    text-align: center;
+    background-color: teal;
+    margin: 10px;
+}
